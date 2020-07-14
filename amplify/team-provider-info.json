@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mentalmemo-dev-201116-authRole",
+            "UnauthRoleArn": "arn:aws:iam::004681416865:role/amplify-mentalmemo-dev-201116-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::004681416865:role/amplify-mentalmemo-dev-201116-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-mentalmemo-dev-201116-deployment",
+            "UnauthRoleName": "amplify-mentalmemo-dev-201116-unauthRole",
+            "StackName": "amplify-mentalmemo-dev-201116",
+            "StackId": "arn:aws:cloudformation:ap-south-1:004681416865:stack/amplify-mentalmemo-dev-201116/5eb58070-c5e4-11ea-b37e-02c26db14466",
+            "AmplifyAppId": "d21kzydy8srxxu"
+        },
+        "categories": {
+            "auth": {
+                "mentalmemo474ed7d4": {}
+            }
+        }
+    }
+}

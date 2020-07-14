@@ -1,0 +1,7 @@
+type Recording @model {
+  id: ID!
+  recordedBy: String
+  date: String
+  time: String
+  file: String
+}

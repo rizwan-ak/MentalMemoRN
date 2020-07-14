@@ -1,0 +1,13 @@
+{
+    "resourceName": "testAudio",
+    "convertPolicyName": "transcriptionPolicy16e14e2e",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "convertType": "transcription",
+    "language": "en-US",
+    "access": "authAndGuest"
+}
